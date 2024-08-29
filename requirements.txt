@@ -1,0 +1,10 @@
+git+https://github.com/cloudera/cmlextensions.git
+bokeh!=3.0.*,>=2.4.2
+xarray
+netCDF4
+bottleneck
+scipy
+pydap
+h5netcdf
+zarr
+cftime
