@@ -1,4 +1,4 @@
-git+https://github.com/cloudera/cmlextensions.git
+#git+https://github.com/cloudera/cmlextensions.git
 bokeh!=3.0.*,>=2.4.2
 xarray
 netCDF4
@@ -8,3 +8,6 @@ pydap
 h5netcdf
 zarr
 cftime
+dask[dataframe]
+dask-jobqueue
+
